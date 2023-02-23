@@ -12,6 +12,7 @@
 - Spanish and English speaker
 - My actual OS is linux because i can personalize it as i want
 - I use Arch with Endevour OS
+- 
 
 
 
