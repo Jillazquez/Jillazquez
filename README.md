@@ -8,7 +8,6 @@
 - 👋 Hi, I’m @Jillazquez
 - 👀 I’m interested in learning OOP
 - 🌱 I’m currently learning Java
-- 📫 How to reach me jillazquez@gmail.com @yunmito
 - Spanish and English speaker
 - My actual OS is linux because i can personalize it as i want
 - I use Arch with Endevour OS
