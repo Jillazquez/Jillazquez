@@ -6,8 +6,8 @@
 </a>
 
 - 👋 Hi, I’m @Jillazquez
-- 👀 I’m interested in learning OOP
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in learning as much programming languages as i can
+- 🌱 I’m currently learning Java 
 - Spanish and English speaker
 - My actual OS is linux because I can personalize it as I want
 - I use Arch with Endevour OS
