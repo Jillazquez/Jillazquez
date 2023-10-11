@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Java 
 - Spanish and English speaker
 - My actual OS is linux because I can personalize it as I want
-- I use Arch with Endevour OS
+- I use Arch with ARCO Linux
 - 
 
 
@@ -19,6 +19,7 @@
 <div align ="center">
 <h4 align="center">Programming Languages - Deployment</h4>
 <img alt="Java" src="https://img.shields.io/badge/Java-d18968.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="C#" src="https://img.shields.io/badge/C%23-007ACC.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img alt="HTML" src="https://img.shields.io/badge/HTML-d1ac68.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS" src="https://img.shields.io/badge/CSS-40326b.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-23aeea.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
