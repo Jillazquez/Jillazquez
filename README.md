@@ -28,6 +28,7 @@
  <div align="center">
   <h3>Editors</h3>
       <img alt="Vscode" src="https://img.shields.io/badge/Vscode-4182e2.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+      <img alt="VisualStudio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/>
       <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-a65ffc.svg?&style=for-the-badge&logo=Eclipse-ide&logoColor=white"/>
 
  </div>
