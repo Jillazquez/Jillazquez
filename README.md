@@ -22,6 +22,7 @@
 <img alt="C#" src="https://img.shields.io/badge/C%23-007ACC.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img alt="HTML" src="https://img.shields.io/badge/HTML-d1ac68.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS" src="https://img.shields.io/badge/CSS-40326b.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+<img alt="JS" src="https://img.shields.io/badge/JS-40326b.svg?&style=for-the-badge&logo=JS&logoColor=black" />
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-23aeea.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 <img alt="Bash" src="https://img.shields.io/badge/Bash-353535.svg?&style=for-the-badge&logo=gnu-bash&logoColor=green" />
   </div>
