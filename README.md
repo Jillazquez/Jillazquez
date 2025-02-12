@@ -6,12 +6,10 @@
 </a>
 
 - 👋 Hi, I’m @Jillazquez
-- 👀 I’m interested in learning as much programming languages as i can
-- 🌱 I’m currently learning .Net 
+- 👀 I’m interested in develop my programing skills as much as i can
 - Spanish and English speaker
-- My actual OS is linux because I can personalize it as I want
-- I use Arch with ARCO Linux
-- 
+- My actual OS is linux
+- I use Arch with Endevour OS
 
 
 
